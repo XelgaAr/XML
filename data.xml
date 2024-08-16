@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
+    <title>SciPost: Latest Publications in Artificial Intelligence</title>
+    <link href="https://scipost.org/journals/" rel="alternate"/>
+    <link href="https://scipost.org/atom/publications/comp-ai" rel="self"/>
+    <id>https://scipost.org/journals/</id>
+    <updated>2021-08-30T00:00:00+02:00</updated>
+    <author>
+        <name>SciPost</name>
+    </author>
+    <subtitle>SciPost: most recent publications in Artificial Intelligence</subtitle>
+    <entry>
+        <title>Conditional generative models for sampling and phase transition indication in spin systems, by Japneet
+            Singh, Mathias S. Scheurer, Vipul Arora
+        </title>
+        <link href="https://scipost.org/SciPostPhys.11.2.043" rel="alternate"/>
+        <updated>2021-08-30T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhys.11.2.043</id>
+        <summary type="html">SciPost Phys. 11, 043 (2021)
+        </summary>
+    </entry>
+    <entry>
+        <title>Symmetry meets AI, by Gabriela Barenboim, Johannes Hirn, Veronica Sanz
+        </title>
+        <link href="https://scipost.org/SciPostPhys.11.1.014" rel="alternate"/>
+        <updated>2021-07-15T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhys.11.1.014</id>
+        <summary type="html">SciPost Phys. 11, 014 (2021)
+        </summary>
+    </entry>
+    <entry>
+        <title>Machine learning and quantum devices, by Florian Marquardt
+        </title>
+        <link href="https://scipost.org/SciPostPhysLectNotes.29" rel="alternate"/>
+        <updated>2021-05-31T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhysLectNotes.29</id>
+        <summary type="html">SciPost Phys. Lect. Notes 29 (2021)
+        </summary>
+    </entry>
+    <entry>
+        <title>Supervised learning of few dirty bosons with variable particle number, by Pere Mujal, Àlex Martínez
+            Miguel, Artur Polls, Bruno Juliá-Díaz, Sebastiano Pilati
+        </title>
+        <link href="https://scipost.org/SciPostPhys.10.3.073" rel="alternate"/>
+        <updated>2021-03-24T00:00:00+01:00</updated>
+        <id>https://scipost.org/SciPostPhys.10.3.073</id>
+        <summary type="html">SciPost Phys. 10, 073 (2021)
+        </summary>
+    </entry>
+    <entry>
+        <title>Improved neural network Monte Carlo simulation, by I-Kai Chen, Matthew D. Klimek, Maxim Perelstein
+        </title>
+        <link href="https://scipost.org/SciPostPhys.10.1.023" rel="alternate"/>
+        <updated>2021-01-29T00:00:00+01:00</updated>
+        <id>https://scipost.org/SciPostPhys.10.1.023</id>
+        <summary type="html">SciPost Phys. 10, 023 (2021)
+        </summary>
+    </entry>
+    <entry>
+        <title>Neural network-based approach to phase space integration, by Matthew D. Klimek, Maxim Perelstein
+        </title>
+        <link href="https://scipost.org/SciPostPhys.9.4.053" rel="alternate"/>
+        <updated>2020-10-19T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhys.9.4.053</id>
+        <summary type="html">SciPost Phys. 9, 053 (2020)
+        </summary>
+    </entry>
+    <entry>
+        <title>Detecting nematic order in STM/STS data with artificial intelligence, by Jeremy B. Goetz, Yi Zhang,
+            Michael J. Lawler
+        </title>
+        <link href="https://scipost.org/SciPostPhys.8.6.087" rel="alternate"/>
+        <updated>2020-06-15T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhys.8.6.087</id>
+        <summary type="html">SciPost Phys. 8, 087 (2020)
+        </summary>
+    </entry>
+    <entry>
+        <title>From complex to simple : hierarchical free-energy landscape renormalized in deep neural networks, by
+            Hajime Yoshino
+        </title>
+        <link href="https://scipost.org/SciPostPhysCore.2.2.005" rel="alternate"/>
+        <updated>2020-04-15T00:00:00+02:00</updated>
+        <id>https://scipost.org/SciPostPhysCore.2.2.005</id>
+        <summary type="html">SciPost Phys. Core 2, 005 (2020)
+        </summary>
+    </entry>
+    <entry>
+        <title>Deep-learning jets with uncertainties and more, by Sven Bollweg, Manuel Haussmann, Gregor Kasieczka,
+            Michel Luchmann, Tilman Plehn, Jennifer Thompson
+        </title>
+        <link href="https://scipost.org/SciPostPhys.8.1.006" rel="alternate"/>
+        <updated>2020-01-16T00:00:00+01:00</updated>
+        <id>https://scipost.org/SciPostPhys.8.1.006</id>
+        <summary type="html">SciPost Phys. 8, 006 (2020)
+        </summary>
+    </entry>
+    <entry>
+        <title>Fast counting with tensor networks, by Stefanos Kourtis, Claudio Chamon, Eduardo R. Mucciolo, Andrei E.
+            Ruckenstein
+        </title>
+        <link href="https://scipost.org/SciPostPhys.7.5.060" rel="alternate"/>
+        <updated>2019-11-12T00:00:00+01:00</updated>
+        <id>https://scipost.org/SciPostPhys.7.5.060</id>
+        <summary type="html">SciPost Phys. 7, 060 (2019)
+        </summary>
+    </entry>
+</feed>
+
+
+        <!--This XML file does not appear to have any style information associated with it. The document tree is shown below.-->
+        <!--<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">-->
+        <!--<channel>-->
+        <!--<image>-->
+        <!--<url>https://img.pravda.com/images/doc/0/0/up-logo.jpg</url>-->
+        <!--<title>Українська правда</title>-->
+        <!--<link>https://www.pravda.com.ua</link>-->
+        <!--</image>-->
+        <!--<title>Українська правда</title>-->
+        <!--<link>https://www.pravda.com.ua</link>-->
+        <!--<description/>-->
+        <!--<item>-->
+        <!--<title>Блогер та герой розслідування УП Слобоженко ухилився від сплати 200 млн податків. Його майно арештували</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470672/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/c/e/ce0b4b2-new-project-&#45;&#45;2024-08-16t150212.147.jpg" type="image/jpeg" length="352167"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:59:48 +0300</pubDate>-->
+        <!--<description>Детективи Бюро економічної безпеки викрили компанію відомого блогера-арбітражника в ухиленні від сплати податків в особливо великих розмірах. Джерело: БЕБ Деталі: За даними УП, йдеться про блогера Олександра Слобоженка, який свого часу був героєм розслідування "Української правди" "Слобоженко і компанія.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Детективи Бюро економічної безпеки викрили компанію відомого блогера-арбітражника в ухиленні від сплати податків в особливо великих розмірах.</p> <p><strong>Джерело:</strong> <a href="https://esbu.gov.ua/news/beb-povidomylo-pro-pidozru-vidomomu-bloheru-iakyi-ukhylyvsia-vid-splaty-ponad-200-mln-hrn-podatkiv-na-ioho-maino-nakladeno-aresht">БЕБ</a></p> <p><strong>Деталі:</strong> За даними УП, йдеться про блогера Олександра Слобоженка, який свого часу був героєм розслідування "Української правди" "<a href="https://www.youtube.com/watch?v=EISpwg1RUCM">Слобоженко і компанія. Історія відпочинку столичної молоді під час мобілізації</a>".</p> <p>Слідством встановлено, що підозрюваний залучив до своєї діяльності декількох осіб серед знайомих та тих, які мають спеціальні знання в галузі інформаційних технологій, для отримання незаконних прибутків від роботи в мережі Інтернет.</p> <p>У 2020 році він заснував та організував діяльність комерційної структури, створив вебресурс та згодом зареєстрував торгову марку.&nbsp;</p> <p>Компанія здійснювала арбітраж Інтернет-трафіку (аффілейт маркетинг) - рекламування в Інтернеті, соціальних мережах товарів, послуг третіх осіб переважно з індустрії "gambling" (ринок онлайн казино, азартних ігор), "dating" (ринок онлайн сервісів для віртуальних знайомств), "betting" (ринок онлайн ставок, букмекерських організацій), "nutra" (онлайн ринок товарів для краси та здоров&rsquo;я) тощо.</p> <p>Аби приховати доходи та ухилитись від сплати податків і зборів компанію не реєстрували як юридичну особу та не ставили на облік як платника податків в органах ДПС України, трудові договори з працівниками не укладалися.&nbsp;</p> <p>Окрім того, Слобоженко запровадив механізм отримання власних доходів, у тому числі від надання послуг шляхом переведення коштів у криптовалюту з використанням платіжних систем та електронних гаманців, зареєстрованих на нього та довірених осіб, з подальшим їх обміном в готівку, яку отримували в пунктах обміну валют.</p> <p>Таким чином керівник компанії за офіційним курсом НБУ на той час були еквівалентні понад 1 млрд грн. Вони не були відображені в деклараціях про майновий стан і доходи за 2020-2023 роки, податки з них не сплачувалися.</p> <p>Такі дії призвели до фактичного ненадходження до бюджету держави понад 213 млн грн податків.</p> <p>Надалі підозрюваний легалізував кошти одержані злочинним шляхом. Зокрема придбав низку об&rsquo;єктів нерухомості та елітні транспортні засоби.</p> <p>У кримінальному провадженні було проведено низку обшуків та експертиз. Наразі детективи БЕБ арештували 8 транспортних засобів - серед яких елітні супер/спорт кари, квартири та нерухомість в столиці.</p> <p><iframe height="387" src="//www.youtube.com/embed/EISpwg1RUCM" width="690"></iframe></p> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470672/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>"Баляндраси" від ТаблоID: Монро, Сумська, Єфросиніна та інші повеселилися на стендапах про факапи</title>-->
+        <!--<link>https://tabloid.pravda.com.ua/focus/balyandrasi-vid-tabloid-monro-sumska-yefrosinina-ta-inshi-poveselilisya-na-stendapah-pro-fakapi-2005657/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:54:31 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://tabloid.pravda.com.ua/focus/balyandrasi-vid-tabloid-monro-sumska-yefrosinina-ta-inshi-poveselilisya-na-stendapah-pro-fakapi-2005657/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Кількість вакансій для ветеранів зросла на 82%</title>-->
+        <!--<link>https://www.epravda.com.ua/news/2024/08/16/718090/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:43:20 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/news/2024/08/16/718090/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>TikTok заперечує претензії США щодо зв’язків соцмережі з Китаєм</title>-->
+        <!--<link>https://mezha.media/2024/08/16/tiktok-pretenzii-ssha-kytay/?utm_source=epravda_widget</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:42:43 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://mezha.media/2024/08/16/tiktok-pretenzii-ssha-kytay/?utm_source=epravda_widget</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Держава надаватиме нові спецсубсидії аграріям у прифронтових регіонах</title>-->
+        <!--<link>https://www.epravda.com.ua/news/2024/08/16/718089/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:42:19 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/news/2024/08/16/718089/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>У Бундестазі закликали надати Україні бронемашини Fuchs</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470664/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:33:12 +0300</pubDate>-->
+        <!--<description>Глава оборонного комітету Бундестагу Маркус Фабер закликав збільшити постачання Україні танків Leopard 2, а також почати постачання бронемашин Fuchs. Джерело: Фабер у X (Twitter), "Європейська правда" Деталі: На думку Фабера, успіх України у Курській області має стати для Німеччини приводом говорити про передачу більшої кількості Leopard та Fuchs.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Глава оборонного комітету Бундестагу Маркус Фабер закликав збільшити постачання Україні танків Leopard 2, а також почати постачання бронемашин Fuchs.</p> <p><strong>Джерело:</strong>&nbsp;<a href="https://x.com/MarcusFaber" rel="noopener noreferrer" target="_blank">Фабер</a>&nbsp;у X (Twitter),&nbsp;"<a href="https://www.eurointegration.com.ua/news/2024/08/16/7192228/">Європейська правда</a>"</p> <p><strong>Деталі:</strong> На думку Фабера, успіх України у Курській області має стати для Німеччини приводом говорити про передачу більшої кількості Leopard та Fuchs.</p> <p>"Наразі ми передали 5% наших Leopard 2 та 0% наших Fuchs. Ми можемо зробити більше&nbsp;&ndash; тим більше, що ми замовили 123 Leopard2 і ось-ось приймемо рішення про Fuchs. Наша допомога має вирішальне значення у боротьбі з загарбницькою війною Путіна",&nbsp;&ndash; написав він.</p> <p>"Надаючи військову підтримку Україні, ми можемо закласти підвалини для тривалого миру в Європі",&nbsp;&ndash; наголосив Фабер.</p> <p>Раніше Маркус Фабер заявив, що Україна&nbsp;<a href="https://www.eurointegration.com.ua/news/2024/08/9/7191795/">може використовувати зброю,&nbsp;</a>надану Німеччиною, для свого нинішнього наступу на російську територію.</p> <p>Нагадаємо, німецький генерал-майор Крістіан Фройдинг, який очолює ситуаційний центр із питань Україні при Міністерстві оборони Німеччини,&nbsp;<a href="https://www.eurointegration.com.ua/news/2024/08/15/7192182/">відзначив</a>&nbsp;рішення українських сил розпочати наступ на прикордонну територію Росії.</p> <p>Фройдинг після кількаденного візиту до України сказав, що "повністю розуміє" рішення українців почати наступ на Курську область Росії.</p> <div id="gtx-trans" style="position: absolute; left: 1068px; top: -1.36px;"> <div class="gtx-trans-icon"></div> </div> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470664/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Кількість нових електромобілів з Китаю в ЄС впала після введення мит</title>-->
+        <!--<link>https://www.epravda.com.ua/news/2024/08/16/718088/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:30:50 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/news/2024/08/16/718088/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Уряд офіційно звільнив Сергія Горбачова з посади освітнього омбудсмена</title>-->
+        <!--<link>https://life.pravda.com.ua/society/uryad-zvilniv-osvitnogo-ombudsmena-detali-303210/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:28:54 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://life.pravda.com.ua/society/uryad-zvilniv-osvitnogo-ombudsmena-detali-303210/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>У Швейцарії заморозили 1,5 мільярда доларів російського сенатора</title>-->
+        <!--<link>https://www.epravda.com.ua/news/2024/08/16/718086/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:20:52 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/news/2024/08/16/718086/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>НАЗК перевіряє співробітника СБУ, у матері якого знайшли нерухомості на мільйони</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470662/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/b/b/bb3a707-new-project-&#45;&#45;2024-08-16t141032.988.jpg" type="image/jpeg" length="230381"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 14:09:09 +0300</pubDate>-->
+        <!--<description>Після розслідування про елітне майно матері очільника економічного управління СБУ Анатолія Лойфа Національне агентство з питань запобігання корупції перевіряє посадовця. Джерело: НАЗК у відповіді на запит "Слідство.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Після розслідування про елітне майно матері очільника економічного управління СБУ Анатолія Лойфа Національне агентство з питань запобігання корупції перевіряє посадовця.</p> <p><strong>Джерело:</strong> НАЗК у відповіді на запит "<a href="https://www.slidstvo.info/news/nazk-pereviriaie-sposib-zhyttia-spivrobitnyka-sbu-loyfa-u-materi-iakoho-slidstvo-info-znayshlo-nerukhomist-za-ponad-16-mln-hrn/?fbclid=IwZXh0bgNhZW0CMTAAAR1Q5cpyNEIoX4wMGgvlzYFJTahavLT4bRjZLAFawJUd0S-MIf49poa1umU_aem_kj9JQHn3A489goR26CjLXA">Слідство.Інфо</a>"</p> <p><strong>Дослівно:</strong> "Повідомляємо, що НАЗК проводиться моніторинг способу життя стосовно Лойфа Анатолія Григоровича, співробітника СБУ, з метою встановлення відповідності або невідповідності його рівня життя наявним у нього та членів його сім&rsquo;ї майна і одержаним ними доходам згідно з декларацією особи, уповноваженої на виконання функцій держави або місцевого самоврядування".</p> <p><strong>Передісторія:</strong> Раніше <a href="https://www.pravda.com.ua/news/2024/05/3/7454126/">вийшло розслідування</a>, що мати Лойфа, яка працює звичайною викладачкою, несподівано "заробила" понад 1 мільйон гривень і стала власницею елітної нерухомості.</p> <p>Мати посадовця СБУ працює викладачкою мов у коледжі міста Берегове.&nbsp;</p> <div id="gtx-trans" style="position: absolute; left: 199px; top: 45.56px;"> <div class="gtx-trans-icon"></div> </div> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470662/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Біля узбережжя Великої Британії виявили уламки військового корабля часів Першої світової війни</title>-->
+        <!--<link>https://life.pravda.com.ua/society/u-velikiy-britaniji-viyavili-ulamki-viyskovogo-korablya-yakiy-ranishe-vvazhali-vtrachenim-detali-303208/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:53:43 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://life.pravda.com.ua/society/u-velikiy-britaniji-viyavili-ulamki-viyskovogo-korablya-yakiy-ranishe-vvazhali-vtrachenim-detali-303208/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Затримали голів ТЦК у Бучі та Борисполі: при обшуках знайшли більше мільйона доларів</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470660/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/4/f/4f2e69c-d0eca890bb571d3fd39ff1834781afe6&#45;&#45;1-.jpg" type="image/jpeg" length="731150"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:47:00 +0300</pubDate>-->
+        <!--<description>На схемі з ухилення від мобілізації викрили начальників Бориспільського і Бучанського територіальних центрів комплектації, а також їхнього спільника: під час обшуків у них вилучили понад 1 мільйон доларів.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>На схемі з ухилення від мобілізації викрили начальників Бориспільського і Бучанського територіальних центрів комплектації, а також їхнього спільника: під час обшуків у них вилучили понад 1 мільйон доларів.</p> <p><strong>Джерело:</strong> <a href="https://ssu.gov.ua/novyny/sbu-zatrymala-dvokh-ochilnykiv-ttsk-na-kyivshchyni-ta-yikhnoho-spilnyka-yaki-zarobyly-na-ukhyliantakh-ponad-1-mln-dolariv" target="_blank">СБУ</a>,<a href="https://t.me/pgo_gov_ua/25520" target="_blank"> Офіс генпрокурора</a>, "Українська правда"</p> <p><strong>Деталі:</strong> За даними слідства, керівники Бориспільського та Бучанського ТЦК організували схему ухилення військовозобов&rsquo;язаних від мобілізації. Вони забезпечували виготовлення підроблених медичних документів, які в подальшому слугували підставою для визнання військовозобов&rsquo;язаних непридатними до військової служби та їх виключення з військового обліку.</p> <p>Як відомо, начальником ТЦК Бучанського району є Леонід Викочко, а начальником ТЦК Бориспільського району &ndash; Сергій Русин.</p> <div class="image-box image-box_center" style="max-width: 690px;"><img alt="&nbsp;" src="//img.pravda.com/images/doc/1/e/1edb67e-bd1331a8e5bcee3540016271326aa330&#45;&#45;1-.jpg" /> <div class="image-box__caption"></div> <div class="image-box__author"></div> </div> <div class="image-box image-box_center" style="max-width: 690px;"><img alt="&nbsp;" src="//img.pravda.com/images/doc/2/a/2aa0994-2cee7cf996421d1ce17e627f5fc04128&#45;&#45;1-.jpg" /> <div class="image-box__caption"></div> <div class="image-box__author"></div> </div> <p>На цей час задокументовано більше 20 осіб, які у такий спосіб намагалися ухилитися від мобілізації.</p> <p>До своєї протиправної діяльності підозрювані намагалися залучити службових осіб Центральної військово-лікарської комісії Збройних сил України для безперешкодного затвердження необхідних документів, зазначають в ОГП.</p> <p>У приміщеннях ТЦК, а також за місцем проживання керівників ТЦК, їхнього спільника, "ухилянтів" та в автомобілях фігурантів правоохоронці провели 33 обшуки.</p> <p>Було вилучено майже пів мільйона доларів США, ще понад 600 тисяч доларів США у їхнього спільника, а також військово-облікові та медичні документи військовозобов&rsquo;язаних.</p> <div class="image-box image-box_center" style="max-width: 690px;"><img alt="&nbsp;" src="//img.pravda.com/images/doc/d/f/dfa47c5-photo-2024-08-16-13-44-49.jpg" /> <div class="image-box__caption"></div> <div class="image-box__author"></div> </div> <div class="image-box image-box_center" style="max-width: 690px;"><img alt="&nbsp;" src="//img.pravda.com/images/doc/e/c/ec06af1-photo-2024-08-16-13-44-54.jpg" /> <div class="image-box__caption"></div> <div class="image-box__author"></div> </div> <p>Наразі вирішується питання про обрання їм запобіжних заходів у виді тримання під вартою без визначення розміру застави.</p> <p>В СБУ додають, що посередника військова контррозвідка затримала у столичному ресторані, коли він одержував 50 тис. американських доларів від нових клієнтів. Додатково під час обшуків в оселі іноземця виявлено велику кількість зброї, зокрема пістолет з глушником, походження якої зараз встановлюється.</p> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470660/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Лубінець відреагував на критику щодо ідеї евакуювати мешканців Курської області в Україну</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470659/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:35:52 +0300</pubDate>-->
+        <!--<description>Уповноважений Верховної Ради з прав людини Дмитро Лубінець наголосив, що українська влада має попіклуватися про цивільне населення взятих під контроль територій Курської області РФ, водночас офіційний Київ не очікує, що буде велика кількість бажаючих евакуюватися саме на територію України.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Уповноважений Верховної Ради з прав людини Дмитро Лубінець наголосив, що українська влада має попіклуватися про цивільне населення взятих під контроль територій Курської області РФ, водночас офіційний Київ не очікує, що буде велика кількість бажаючих евакуюватися саме на територію України.</p> <p><strong>Джерело:</strong> Омбудсман в ефірі "<a href="https://www.radiosvoboda.org/a/news-ukraina-tsyvilni-z-kurskoi-oblasti-lubinets/33081238.html" target="_blank">Радіо Свобода</a>", коментуючи критику українського суспільства щодо відповідної ініціативи влади</p> <p><strong>Пряма мова</strong>: "Я розумію, що у нас суспільство може по-різному трактувати зусилля України щодо виконання своїх міжнародних зобов&rsquo;язань, але ми тим і відрізняємося від росіян, що ми цивілізована нація, демократична нація.</p> <p>І для всіх критиків подібних дій я хочу нагадати, що всі міжнародні партнери продовжують допомагати України саме через те, що бачать різницю. Як тільки ми покажемо, що ми можемо повести себе нецивілізовано, в такий спосіб, як росіяни, тоді ми можемо забути про військову підтримку".</p> <p><strong>Деталі:</strong> Лубінець повідомив, що Україна не буде створювати спеціальних таборів для цивільного населення Курської області Росії, які захочуть евакуюватися.</p> <p>Також він каже, що не бачить загроз безпеці цивільного населення з Курської області на території України:</p> <p>"Ми не очікуємо, що буде велика кількість бажаючих до нас приїхати, якщо взагалі вони будуть. Але я точно не переживаю за те, що буде небезпечно для цивільного населення з території Курської області&hellip; Ми запропонували кожному і кожній з мешканців Курської області в разі бажання евакуюватись з цієї території. Україна відкриє гуманітарні коридори. Чи то на територію, яку контролює Російська Федерація, чи то на територію незалежної України. Це має бути власний вибір будь-якого громадянина, який зараз там перебуває з числа цивільних. Ми точно не збираємося порушувати їхні права".</p> <p>За словами Лубінця, зараз у добровільному порядку Збройні сили України вже забезпечують гуманітарними речами цивільне населення на території Курської області. На запитання, де будуть селити людей, які потенційно можуть висловити бажання виїхати з Курської області РФ на територію України, Лубінець прямо не відповів. Але каже, в Україні вже давно готова інфраструктура.</p> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470659/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Окупанти заявили, що Кримський міст атакували 12 ракет ATACMS</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470658/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/3/b/3b8adcf-krymskyj-mist1300.jpg" type="image/jpeg" length="224581"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:25:16 +0300</pubDate>-->
+        <!--<description>Російське міноборони заявило, що вночі 16 серпня незаконно побудований Кримський міст нібито атакували 12 ракетами ATACMS. Джерело: російське пропагандистське видання РИА Новости Деталі: Міноборони РФ запевняє, що нібито всі ракети збили.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Російське міноборони заявило, що вночі 16 серпня незаконно побудований Кримський міст нібито атакували 12 ракетами ATACMS.</p> <p><strong>Джерело</strong>: російське пропагандистське видання РИА Новости</p> <p><strong>Деталі</strong>: Міноборони РФ запевняє, що нібито всі ракети збили. Однак російське відомство традиційно не надало жодних доказів цього.</p> <p><strong>Передісторія:</strong></p> <ul> <li>У ніч проти 16 серпня окупанти повідомили про&nbsp;<a href="https://www.pravda.com.ua/news/2024/08/16/7470599/">перекриття Кримського моста</a>, який відкрили лише за чотири години.&nbsp;Крім того, телеграм-канали повідомляли про вибухи в Чорноморському та Кам&rsquo;янці, що біля Сімферополя, сирену і стрілянину у Феодосії.</li> <li>Пізніше російське міноборони заявило, що вночі <a href="https://www.pravda.com.ua/news/2024/08/16/7470615/" target="_blank">Крим атакували кілька безекіпажних катерів і безпілотників</a> літакового типу.</li> </ul> <p><strong>Для довідки:</strong> Росія, яка у 2014 році окупувала український півострів Крим, згодом незаконно збудувала міст&nbsp;через Керченську протоку. Кримський міст &ndash; це дві переправи (автомобільна і залізнична), які сполучають Крим з Росією. &nbsp;</p> <p>Україна неодноразово наголошувала на незаконності цього переходу і заявляла, що він є законною ціллю для збройних сил.</p> <p>Відомо про щонайменше дві вдалі атаки на Кримський міст.&nbsp;<a href="https://www.pravda.com.ua/news/2022/10/8/7370891/" target="_blank">Перший удар</a>&nbsp;по Кримському мосту стався вранці 8 жовтня 2022 року, наступного дня після 70&#8209;річчя Володимир Путіна. Для нього використали&nbsp;<a href="https://www.pravda.com.ua/news/2023/08/19/7416220/" target="_blank">вантажівку з вибухівкою</a>, загорнутою в плівку.&nbsp;</p> <p>Наступного дня російське видання "Медуза" назвало Кримський міст, який зазнав пошкоджень після вибуху 8 жовтня 2022 року, одним із<a href="https://www.pravda.com.ua/news/2022/10/9/7371020/" target="_blank"> найбільш захищених місць у світі </a>&ndash; його нібито охороняють із землі, з неба, з моря, під водою і навіть із космосу.</p> <p><a href="https://www.pravda.com.ua/news/2023/07/17/7411623/" target="_blank">Другий удар</a>&nbsp;по мосту Україна завдала у ніч на 17 липня 2023 року морськими надводними дронами, операцію назвали,&nbsp;<a href="https://www.pravda.com.ua/news/2023/08/16/7415775/" target="_blank">як і дрони</a>, "Морський малюк".</p> <p>Згодом стало відомо, що&nbsp;російські <a href="https://www.pravda.com.ua/news/2023/08/30/7417725/" target="_blank">окупанти встановили&nbsp;баржі на південь</a> від Кримського мосту, які мали стати "барикадами" проти українських морських дронів.&nbsp;</p> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470658/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Полярники порахували, скільки Україн поміщається на Антарктиді</title>-->
+        <!--<link>https://life.pravda.com.ua/society/skilki-ukrajin-pomishchayetsya-na-antarktidi-polyarniki-rozpovili-303207/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:20:53 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://life.pravda.com.ua/society/skilki-ukrajin-pomishchayetsya-na-antarktidi-polyarniki-rozpovili-303207/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Кабмін погодив нового голову Тернопільської ОВА</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470656/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/f/d/fda5a81-new-project-&#45;&#45;2024-08-16t132023.102.jpg" type="image/jpeg" length="138486"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:18:57 +0300</pubDate>-->
+        <!--<description>На уряді 16 серпня погоджено призначення В'ячеслава Негоди головою Тернопільської обласної державної адміністрації. Джерело: представник уряду у Верховній Раді Тарас Мельничук у Telegram, "Чесно" Деталі: Окрім призначення Негоди, уряд погодив звільнення Сергія Горбачова з посади освітнього омбудсмена.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>На уряді 16 серпня погоджено призначення В&rsquo;ячеслава Негоди головою Тернопільської обласної державної адміністрації.</p> <p><strong>Джерело:</strong> представник уряду у Верховній Раді Тарас <a href="https://t.me/tmelnychuk/4824">Мельничук</a> у Telegram, "<a href="https://www.chesno.org/politician/73607/">Чесно</a>"</p> <p><strong>Деталі:</strong> Окрім призначення Негоди, уряд погодив звільнення Сергія Горбачова з посади освітнього омбудсмена.</p> <p>За даними "Чесно", Негода у 2019 році&nbsp;став&nbsp;заступником&nbsp;Міністра розвитку громад та територій.</p> <p>Вже у 2023 році Кабмін&nbsp;погодив&nbsp;звільнення Негоди з посади заступника міністра. Це сталося після скандалу з першим заступником міністра Василем Лозинським, якого&nbsp;спіймали&nbsp;на хабарі у розмірі 400 тисяч доларів.&nbsp;</p> <p>За часів попередньої влади Негода працював першим заступником та заступником Міністра регіонального розвитку, будівництва та житлово-комунального господарства.</p> <p><strong>Передісторія:</strong> Кабінет міністрів у грудні&nbsp;<a href="https://www.pravda.com.ua/news/2023/12/27/7434824/">погодив</a>&nbsp;звільнення голови Тернопільської ОВА Володимира Труша на засіданні 27 грудня. Згодом президент підтримав звільнення.</p> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470656/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Народні депутати хочуть повернути собі спецпенсії</title>-->
+        <!--<link>https://www.epravda.com.ua/publications/2024/08/16/718064/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:10:28 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/publications/2024/08/16/718064/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>Мутована версія віспи мавп, через яку ВООЗ забила на сполох, вийшла за межі Африки</title>-->
+        <!--<link>https://life.pravda.com.ua/health/mutovanu-versiyu-vispi-mavp-vpershe-viyavili-za-mezhami-afriki-303206/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 13:05:30 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://life.pravda.com.ua/health/mutovanu-versiyu-vispi-mavp-vpershe-viyavili-za-mezhami-afriki-303206/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>В київських бізнес-центрах знизилась вартість оренди</title>-->
+        <!--<link>https://www.epravda.com.ua/news/2024/08/16/718083/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<pubDate>Fri, 16 Aug 2024 12:52:58 +0300</pubDate>-->
+        <!--<description/>-->
+        <!--<guid>https://www.epravda.com.ua/news/2024/08/16/718083/</guid>-->
+        <!--</item>-->
+        <!--<item>-->
+        <!--<title>8 європейських країн звернулися до ЄС: стурбовані через рішення Угорщини щодо в'їзду росіян</title>-->
+        <!--<link>https://www.pravda.com.ua/news/2024/08/16/7470652/</link>-->
+        <!--<category>Новини</category>-->
+        <!--<dc:creator>Українська правда</dc:creator>-->
+        <!--<enclosure url="https://img.pravda.com/images/doc/b/8/b87c680-orban1300.jpg" type="image/jpeg" length="119449"/>-->
+        <!--<pubDate>Fri, 16 Aug 2024 12:52:47 +0300</pubDate>-->
+        <!--<description>Представники країн Балтії та Північної Європи написали листа до Єврокомісії, в якому повідомили про занепокоєння рішенням Угорщини про пом'якшення візового режиму для громадян Росії та Білорусі. Джерело: "Європейська правда" з посиланням на текст листа на адресу єврокомісарки з питань внутрішніх справ Ілви Йоганссон, оприлюднений главою МЗС Естонії Маргусом Тсахкною у мережі в X (Twitter) Деталі: Міністри назвали рішення Угорщини невиправданим, оскільки Росія веде війну проти України і інтенсифікує свої гібридні дії проти ЄС.</description>-->
+        <!--<content:encoded>-->
+        <!--<![CDATA[ <p>Представники країн Балтії та Північної Європи написали листа до Єврокомісії, в якому повідомили про занепокоєння рішенням Угорщини про пом'якшення візового режиму для громадян Росії та Білорусі.</p> <p><strong>Джерело</strong>: "<a href="https://www.eurointegration.com.ua/news/2024/08/16/7192223/" target="_blank">Європейська правда</a>" з посиланням на текст&nbsp;<a href="https://x.com/Tsahkna/status/1824363713400324383" target="_blank">листа</a>&nbsp;на адресу єврокомісарки з питань внутрішніх справ Ілви Йоганссон, оприлюднений главою МЗС Естонії Маргусом Тсахкною у мережі в X (Twitter)</p> <p><strong>Деталі</strong>: Міністри назвали рішення Угорщини невиправданим, оскільки Росія веде війну проти України і інтенсифікує свої гібридні дії проти ЄС.</p> <p><strong>Дослівно з листа:</strong> "Безвідносно до того, чи підпадає це рішення під компетенцію національної влади чи ЄС, ми стурбовані, що воно може становити серйозні безпекові ризики для всіх держав-членів&hellip; Відповідь Угорщини, ваш аналіз та наступні кроки матимуть надзвичайне значення для забезпечення нашої безпеки".</p> <p>Листа підписали глави МЗС, а також міністри внутрішніх справ чи юстиції Латвії, Литви, Естонії, Швеції, Норвегії, Данії, Фінляндії та Ісландії.</p> <p><strong>Передісторія:</strong></p> <ul> <li>1 серпня ЄС&nbsp;<a href="https://www.eurointegration.com.ua/news/2024/08/2/7191368/" target="_blank">зажадав від Угорщини</a>&nbsp;відреагувати на побоювання, що рішення Будапешта про пом'якшення візового режиму для громадян Росії та Білорусі підвищує ризик шпигунства в блоці.</li> <li>Найбільша група Європарламенту, Європейська народна партія,&nbsp;<a href="https://www.eurointegration.com.ua/news/2024/07/30/7191170/" target="_blank">перед цим поскаржилася</a>, що послаблення правил може створити "серйозні лазівки для шпигунської діяльності".</li> </ul> ]]>-->
+        <!--</content:encoded>-->
+        <!--<guid>https://www.pravda.com.ua/news/2024/08/16/7470652/</guid>-->
+        <!--</item>-->
+        <!--</channel>-->
+        <!--</rss>-->
